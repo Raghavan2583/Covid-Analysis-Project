@@ -1,19 +1,19 @@
-# Portfolio-Projects
+# Covid Analysis Project
+Welcome to the Covid Analysis Project! This project is a comprehensive SQL-based analysis of Covid-19 data. Using SQL queries, I explored, cleaned, and derived key insights from the data, revealing patterns and trends associated with the pandemic. This analysis includes two key datasets and all SQL code used in the project.
 
-Welcome to my Data Analyst Portfolio! This repository showcases a selection of data analysis projects that reflect my analytical skills, technical expertise, and commitment to delivering actionable insights. Each project here demonstrates my proficiency with SQL, Excel, Power BI, and Python to tackle real-world business problems.
+## Project Overview
+The Covid Analysis Project aims to uncover meaningful insights into the Covid-19 pandemic by analyzing data through SQL queries. This project provides a structured approach to understanding how different factors, such as location, vaccination rates, and case counts, have evolved.
 
-Skills & Tools
-In these projects, I’ve leveraged a blend of technical skills to prepare, analyze, and present data effectively:
+## Key Objectives:
+Analyze trends in COVID-19 cases across various regions
+Investigate vaccination progress and its correlation with case reduction
+Extract valuable insights that can support health policies and inform decision-making
 
--->Data Querying: SQL
--->Data Analysis & Transformation: Excel, Python (Pandas, Numpy)
--->Data Visualization: Power BI, Excel charts
--->Reporting & Dashboarding: Power BI
+## Datasets
+This analysis uses two datasets:
+CovidDeaths
+CovidVaccinations
+Both datasets are provided in the repository.
 
-You can explore these projects by downloading or cloning this repository. Each README includes step-by-step instructions for replicating the analysis.
-
-
-# Contact Information
-I'm always open to connecting with fellow data enthusiasts and professionals. You can find me on LinkedIn [https://www.linkedin.com/in/raghavantm/] or reach out via email at [raghavan2583@gmail.com].
-
-Thank you for checking out my data analysis portfolio! I look forward to sharing my analytical journey with you.
+## Contact
+Connect with me on https://www.linkedin.com/in/raghavantm/ or email me at [raghavan2583@gmail.com]. I’m open to discussing my findings, methods, or potential collaborations in data analysis.
