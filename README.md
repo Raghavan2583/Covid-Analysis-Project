@@ -16,4 +16,4 @@ CovidVaccinations
 Both datasets are provided in the repository.
 
 ## Contact
-Connect with me on https://www.linkedin.com/in/raghavantm/ or email me at [raghavan2583@gmail.com]. I’m open to discussing my findings, methods, or potential collaborations in data analysis.
+Connect with me at https://www.linkedin.com/in/raghavantm/ or email me at [raghavan2583@gmail.com]. I’m open to discussing my findings, methods, or potential collaborations in data analysis.
